@@ -1,0 +1,502 @@
+=0
+Welcome to the ''Traditions of Our Tribes'', in which you take on the role of the head of one primitive tribe in the midst of a chaotic world, where the eras of the Middle Ages, modernity, space and yours are also intertwined. A world like this you've seen in a game like RimWorld, and the setting of this game is quite inspired by it. Your goal - is to survive as long as possible, making fateful decisions for your tribe every day. Your most important parameter is ''Population''. If it drops to zero, you will lose. ''Food'' and '' Morality'' are also important parameters, because if they fall to zero, the population will begin to fall, and the game may give out unpleasant events.In addition, 5 residents consume 1 unit. food every day, so you need to be especially careful about it. The available solutions are influenced by your other parameters (number of resources, reputation, special status, level of development, etc.) Good Luck!
+I understand, let me play, PLAY, play!
+=1
+A runaway slave from a medieval castle came to our settlement. He wants to hide from potential pursuers. 
+Now he's in our tribe
+We will sacrifice him
+Let him wait out the night, and during the day he will help in the village
+Just refuse
+Bring it back to the castle
+=2
+Not far from us, a spaceship dumped industrial debris. It is an easy but sometimes dangerous source of industrial resources, for there can be mysterious ''radiation'' or even a ''flash of fire''.
+Go and find something there
+Collect small debris, don't get close!
+Ignore the bunch, get busy collecting other resources
+=3
+A migrating herd of deer has been seen in the fields. This is a good opportunity to safely replenish food supplies.
+Everyone on the hunt!
+Do not feel sorry for the arrows, they will not stay here anyway
+Better get your hands on the gathering
+We have to thank the gods for this
+=4
+One of your tribal brothers contracted an unknown disease. The shaman says it will be difficult to get him back, but there is a chance to save him. What will we do?
+Do whatever you want, the main thing is to save him!
+Give him our ''universal'' herbal tincture
+Let's pray!
+=5
+As a result of another medium-severity cataclysm, part of your village was destroyed. Something needs to be resolved with the houses, some literally have nowhere to live!
+Allocate resources for repairs
+Patch holes with metal
+Exchange our valuables in the nearest settlement for assistance with recovery
+We were cursed! Blame God!
+=6
+The collectors brought a good harvest of mushrooms and berries today. What are we going to do with it?
+Bring it to the barn
+Make more medication
+Let's arrange a holiday! And don't forget about sacrifices to the gods...
+We will share this joy with our neighbors, we will invite them to a holiday
+Make stocks in the event of famine
+=7
+Tonight one of our fellow tribesmen tried to enter our common warehouse and steal something there. The thief was caught, but we need to decide what to do with him and how to punish him...
+Execute, no mercy!
+Excuse him
+Expel from the tribe
+Sell into slavery to a neighboring settlement
+=8
+Our shaman claims that he has found a way to turn metal into gold! He asks to give him the right amount of material to realize his ambitions.
+Give him what he asks
+No, shaman Pepe, this is not the first time you say this... 
+The shaman drank some fiery water, he needs to be forcibly cured
+...Can you make it out of wood?
+=9
+An unusual phenomenon was noticed in the sky: the clouds lined up, like a figure that is called - taboo in the tribe. This is clearly a symbol and a sign to us from the gods, but which one?
+The end is near!
+Gods need to bring food as a gift!
+Make fires!
+The gods demand our treasures!
+The gods want the most beautiful ... John as a sacrifice! (John, don't be mad)
+It's all because of the ''Shrimpy chimp'' tribe. Let's attack them!
+=10
+A flock of wild boars was found near the village. They can be dangerous, but we also need to eat something. Are we going to risk hunting them?
+Take our best weapon for this
+Let's take only spears
+We don't need a weapon to kill some toothy pigs
+We won't go hunting this time
+We will call a neighboring tribe for help in hunting and divide the prey
+=11
+Our scout did not return today. It was a mission to survey the area for ''something''. What do we do about the fact that he is ''lost''? Is it worth the effort to find him, or will he come back on his own?
+Send 2 people to search for him
+Let's pray for the peace of his soul...
+Cheer up! He's alive and will come back, he's just delayed... 
+=12
+You met a lost soldier from the industrial world. He, wounded, tried to fight off a pack of wolves. He is grateful to you for what you have saved him from the pack and asks you to help him heal his wounds...
+No, go for a walk, we have no medicine
+Only on the condition that he stays with us and will help the community
+Only on condition that he give up his weapons
+Disarm him and leave for dead
+Just save him and demand nothing
+=13
+''If there is war tomorrow, if the enemy attacks?'', it was with such a question that our most important warrior of the tribe came to your hut, and the thought as a whole is sound. It would not hurt us to replenish our stocks of weapons...
+Order us to forge it from iron!
+Carve spears, bows and arrows from wood
+Let's buy it in the ghetto of a nearby town?
+We will exchange at the nearest castle for food and medicine
+Our supplies are enough for us...
+=14
+In the north, in the mountains, a cave with golden injections was discovered, but when we left the cave, we found a sign of some city brigade, which seems to have ''marked'' the mine as its own. What are we going to do about it?
+The mine is still in the territory of our tribe, start mining and ignore the city people
+We can sell them our idiots as labor in the mine
+We will tell the people from the castle about this mine and watch the fun
+We don't need conflicts, ignore this mine
+We have every right to this mine. Remind them of their “alliance” commitments!
+It is on our territory, let them pay a percentage!
+=15
+A messenger from the nearest castle arrived in your tribe, shot an arrow with a message into the nearest barn and rushed away. The letter says that this very barn from the tribe occupies the territory newly occupied by the castle - your tribe is now part of their kingdom, and you must pay tribute as 2 units. gold.
+And if not?
+So be it, just don't hit
+Can I pay with food?
+We are in an alliance, what jewels...
+Let's ask the city and local greenpeace to protect us
+We will pay twice as much to increase respect for us
+=16
+It seems that the neighboring tribe had the nerve to ''capture''  a few trees with fruits that grew on our border, and as a result, they can collect them. This is unacceptable! The tribesmen are evil, what are we going to do?
+Let's drive out the scoundrels by force
+Ignore
+We are not at war with this tribe, let's go and settle the issue with their headman, peacefully
+Just shoot and scare them away
+Do they want him that much? Well, we will officially present it then!
+=17
+Today the scouts' search for food was in vain, and your shaman offered to eat today with something from our other supplies...
+Can tribesmen eat metal?
+Today the diet includes moss, bark and kombucha.
+Hey, we have livestock!
+We're starving today
+Let's ask the castle for some bread
+=18
+Today your tribe stumbled upon a new farm in a nearby castle with a bunch of slaves. Surprisingly, the overseer was not visible, and you can try to do something with her. 
+Steal some food and don't get caught by anyone's eyes
+Offer the slaves to escape to us, but it is for sure that someone will notice and tell
+Make an armed raid, scare off the peasants and take the crops
+Take advantage of the privilege of being close to the monarch and ask for food
+Let's buy food from them at the wholesale price (you don't know what the wholesale price is)
+A good place to sell a crazy tribesman into slavery
+=19
+Our tribal warriors are out for blood. In the settlement there are proposals to arrange a combat raid somewhere like in the good\nold wild times.
+Good suggestion, let's attack the neighboring tribe!
+There are many interesting things in the neighboring castle, let's not waste time on trifles and lay siege to it
+Let's run into the ghetto of that big city? There are many cool things there
+Gentlemen, God, what barbarism? Raid? No! Don't make your neighbors angry
+It is better to go on the hunt
+If you want to blow off steam - fight among yourself.
+=20
+A strange group of people from an industrial city came to us and called some kind of ''organization''. They want to take our fellow tribesman ''for education'', in order to raise him in an urban environment and check something.
+Yes they can take one
+No! We need our working hands
+Let them take it, but not for free
+These ''organizations'' feed you well. You look delicious
+Take their things and kick them out
+=21
+In our tribe, a new generation of children has finally grown up, which can be used in labor, war and other adult affairs, but first they must go through a rather dangerous initiation squad. There have been cases when a whole generation has died on it, but since then we have naturally simplified it. Will we ''honor the traditions of our tribe''?
+Let's perform the ceremony as we usually did
+Let's perform a TRUE and TRADITIONAL ceremony, albeit a dangerous one
+Let's drop TRADITIONS! We will not perform any of the rituals
+=22
+A flock of rabid animals came to our settlement. Their ''rabies'' A flock of rabid animals came to our settlement. Their `` rabies '' can be seen by the foam from the mouth. What should we do with such guests?
+Let's hide in houses and wait for them to leave
+We will repel the attack!
+It's good that we have stone walls to hide behind!
+Let's shove them poisoned food...
+We will send a messenger to the nearest castle with a request for help
+Let's make a big fire that will scare them away
+=23
+A heavy downpour is approaching our settlement. On the horizon, terrible black clouds emerge from forests and hills, and thunder echoes to us. We have no power over the elements, but we also cannot remain idle...
+Let us pray, for our deity will take the bad weather away from us!
+Fortify buildings with crowbar and stones!
+Run urgently and call this medieval engeneer!
+THIS IS A CURSE! The gods want bloody sacrifices from us!
+=24
+Our shaman Pepe talks about his new vision: he declares that if he goes to the so-called people from the city of ''Kasino'' and makes a donation in the form of gold, the gods will return him the amount several times more! Gold, of course, he is going to take from the reserves...
+Give him what he asks
+Several times more? Give Pepe more!
+This is an institution of evil spirits, we will rob it and take away the gold!
+No, Pepe, your adventures don't end well
+You better go and buy some fiery water in their ''Barre''
+=25
+Teenagers from a distant city walking through our fields found a shrine where our fellow tribesmen are buried. The stupid and evil youngsters decided to break it, but they were noticed by a group of returning gatherers and were captured, but one managed to escape into the forest and will most likely head to his city, so that the residents will know that we have caught them. How should we deal with the culprits before these city dwellers intervene?
+Let go of the stupid youths, we don't need problems from the city
+We will demand from the city compensation for damage in exchange for them
+We will punish them according to tribal laws
+The gatherers ''collected'' a meat supper for us. Let us eat the defilers of the graves!
+We will attract city organizations and stir up attention to us on this incident
+Let's demand from the city that they be brought in as punishment to work for the tribe!
+=26
+It seems that someone nearby in the forest decided to hide a herd of dead bulls and cows. The corpses do ''not look very good''. Should we do something about it?
+''Not very good'' is better than ''bad''. Beef for dinner tonight
+Look for ''fresher'' corpses and use medications to clean up
+Ignore them
+Let's sell it to a neighboring tribe as ''fresh meat''?
+Can rotten dead bulls be sacrificed?
+But their bones, horns and skins are at least normal? 
+=27
+A mysterious little metal monster is flying above us, you have already seen such among the city dwellers. This ''bird'' strives to fly closer to you and looks at you with its glass eye. This annoys your tribesmen, what shall we do with her?
+Just ignore her
+Let's try to scare her
+Hit her with the boom stick
+Let's go to the city and complain about her
+This is the messenger of God! Let's dance for her!
+Grab her! The people from the castle will pay us for it!
+=28
+On the borders of our territory, wasteful madness is again going on - the inhabitants of the city JUST SUCH crush their food! A lot of food that could feed our entire large tribe for several days tomorrow will be destroyed by an iron monster. Can we intervene?
+Let's hang out at night and go pick up what we missed
+It's time to connect these ... Grin-piss! 
+It's none of our business
+Let's scare off these fools, stop spoiling the food
+Shall we collect the leftovers and make a healing slurry out of them?
+=29
+Two vagabonds have come to your village, either from the castle or from the city. With gestures, they showed that they were very hungry and that they were ready to work for the tribe if you provided them with food. Perhaps they are even ill with something, but they fit normally into your ''atmosphere'' (except for the language barrier ...).
+Welcome, hold watermelon
+We are ready to accept only one of you
+Get out!
+You look ''fat'' for tramps, mmm
+Without food, slaves...
+Capture and sell to a neighboring tribe
+=30
+The scout found the remains of a metal monster of people in the swamp, and it seems that a strange, now unseen type of boom stick was sticking out from above. We don't know how it works and we don't know what to do with the find.
+Let's disassemble and make a normal weapon
+Fix it, test it, make it SHOOT
+Take it all to metal
+Sell to our tribal neighbors?
+Wait, you were in the swamp and DID NOT BRING BERRIES?
+=31
+There is concern in the tribe about our readiness to fight back the enemy, a call was made at the meeting to make more weapons for the tribe, which was supported by a part of the rest of the brethren.
+Well, let's carve spears out of wood
+Let's grind spears with a metal tip!
+Boom sticks made of metal and gunpowder
+Your opinion has been heard. The answer is no!
+Mmm, well in that case, go and chop wood for weapons!
+Just go and buy swords and bows at the castle
+=32
+We got a message saying that people from the city are very eager to buy our ''traditional wood carvings''. We don't make any wood figurines, but maybe we can make an exception for them...
+Well let's do...
+Let's do it, but for food!
+Who do you take us for?
+=33
+Karasik again came to us with his revolutionary idea, overheard in the city - to make a ''homunculus'', an artificial person. To do this, he asks us for a lot of food and some medicine, promising that at the end we will get a new tribesman.
+I sent you for food myself 
+Give him what he asks
+We do not have medicines, but keep the food
+What if metal is used instead of food...?
+=34
+Our hunter brought us an unusual bird still alive. Do you remember that there is one in some kind of ''red book'' (you don't know what a red book is) and their ''leaders and kings'' are interested in getting such an unusual animal
+Red? Did you mean cookbook?
+Well, let's sell it to the city
+The king in the castle will love it
+Let's give the leader of a neighboring tribe!
+I want her stuffed animal in my tent
+Let her go
+=35
+It seems our food supplies (or what's left of them) have gone bad. An unpleasant smell emanates from our corned beef and berries in the water, midges fly around and in general they have an unpleasant appearance ...
+It looks normal, don't be baby, eat it!
+Select what looks not so bad
+Cleanse everything you can with medicines
+Let's sell this ration to the castle
+Let's ask a neighboring tribe to help with food
+=36
+This morning, according to your intelligence officer, a fire broke out in the castle, which destroyed almost all the buildings outside the walls. They are now clearly going through hard times and we could take advantage of this.
+Good suggestion - attack them
+Offer to help them recover
+Refugees will leave the castle, catch them!
+None of our business, start collecting resources
+Offer them to buy resources from us at a high price
+Let's invite the neighboring tribe to attack them together
+=37 
+An albino baby has suddenly been born in your settlement! There is a strong belief among your tribesmen that they are both cursed and that their body parts have healing properties if they are. Parents, obviously, will not be delighted that their child will be slaughtered. How should we deal with him?
+Do not touch the future fighter of the tribe!
+We will give him to the city, where he will be "protected"
+I heard his ears prolong life by 5 years...
+We need money, the neighboring tribe needs medicine...
+Give at the mercy of a crowd of fellow tribesmen
+=800
+There has been no food in the settlement for 24 hours. The tribe gathered in the center of the settlement and it is necessary to make a decision: what (and how) to eat today?
+Let's endure without food for now...
+Can a tribe eat stones?
+We have quite a few healing roots in stock...
+Play ''Rock-scissors-papyrus''. The loser - we eat
+=850
+Due to bad relations with a neighboring tribe, they are going to attack you. What will we do? Their detachment consists of people: 
+We will take the fight!
+We cannot fight! Let's retreat and surrender the settlement to plunder...
+Pay off them with our gold... 
+=851
+Due to bad relations with a neighboring castle, they are going to attack you. What will we do? Their detachment consists of people: 
+We will take the fight!
+We cannot fight! Let's retreat and surrender the settlement to plunder...
+Pay off them with our gold... 
+=852
+Due to bad relations with a neighboring city, they are going to attack you. What will we do? Their detachment consists of people: 
+We will take the fight!
+We cannot fight! Let's retreat and surrender the settlement to plunder...
+Pay off them with our gold... 
+=853
+For some reason, the city decided to take our tribe into its sphere of influence and offers us a service. He is ready to send military instructors to us to teach us military tactics.  However, this is not a gesture of goodwill and they require a 4 gold.
+Agree
+Sphere of influence, you say ... It's expensive. We agree on 3 units.
+Not this time...
+=854
+A neighboring friendly tribe offered us to buy some cattle from them. Having pets will provide us with a more stable food source. For this they require 4 units. gold.
+We take
+Why buy it if you can take it by force?
+Not this time...
+Do they accept materials?
+=855
+Today one of the tribesmen is feeling suspiciously bad. It seems that he fell ill with something serious and contagious. These symptoms are new to us.
+Call a shaman! We will heal him with spiritual power
+Bring all the medicines that we have
+Let's just isolate him from everyone
+Call a healer from the city, we are ready to pay him! 
+=856
+We have accumulated quite a lot of stone and wood, and one of the tribesmen suggested building a wall ''from them''...
+Good idea
+Bad idea
+=857
+It seems that all our neighbors have again staged some kind of war and are waging it, including on our tribal lands. Are we some kind of joke to them?
+We will act as mediators in negotiations and settle the conflict
+Just pay them not to touch us.
+So we can search the battlefields and pick up their weapons?
+And let's turn to this one of yours, OOZONE, or how, so that everything would be peaceful?
+No peace, only violence
+If a fight is inevitable, strike first!
+=858
+We were visited by a messenger from a friendly castle. Their local king asks our settlement to provide him with 3 of our strongest people from the tribe for military service, in return he is ready to allow you to send surplus wood and stones from his forestlands and quarries. Do we agree?
+Yes, let them take people
+No, we need workers
+=900
+There is a moral decline in the settlement, people are really angry with your decisions and the tribe can kill you today or tomorrow in the middle of the night, and no one will intercede for you. We need to somehow solve this problem...
+Today everyone has 4 servings of food!
+We need a demonstrative execution
+It's okay, I'm Captain ...
+Let's just give out the shinny things from the stock.
+I will give an inspiring speech!
+=901
+A crowd of disgruntled villagers of the tribe are standing in front of your ''residence''.They are very unhappy with what is happening and demand right now to solve all their problems and to reconsider past decisions. Naturally, you cannot do this. How to deal with the crowd of fanatical tribesmen?
+Promise to deal with everything, everything (no)
+Disperse by force
+Just open the warehouse... 
+=902
+Due to recent events, our tribe is in a religious frenzy. They do not understand why the gods turned away from them. We need to somehow solve these religious problems...
+We just need to pray more!
+God has turned away from us because he DOESN'T EXIST!
+We need more sacrifices ...
+We need to kindle a HUGE bonfire so that God would see us!
+The people need medicine ''for the soul''
+Let's build a statue of a god out of shinny things and stone?
+=999
+A trader come to our village. He offers a deal: 
+Buy
+We don't need to buy this
+#
+ 
+Your forces
+Enemy forces
+Wow, you've lived 100 days. You have won!
+You lose
+Effect: 
+Num. weapon
+Num. resources
+You defend yourself
+You attack
+Victory! Horaay! 
+Retreat (-25 morale)
+There will be a description of tactics when pointing
+Volume
+Start game
+Load game
+Save game
+Number of our attackers: 
+All go!
+ num.
+Number of their attackers: 
+Choose how many soldiers to send to the attack (slider on the right), and then tactics (one of the boxes above) 
+Restart
+ 
+ 
+ 
+ 
+ 
+Direct frontal attack with bare hands. Very desperate and suicidal, but does not require weapons and is always available
+A direct frontal attack, but with normal weapons, not stones and fists
+NEED 1 num. WEAPON
+We will arrange an ambush for them and wait until they come to us in a trap.
+We will fire at the enemy's positions from afar with our arrows 
+Let's build hastily barricades to repel the next attack
+NEED 1 num. RESOURCE
+Максимально хорошо вооружить наших людей и отправить ''тяжёлую пехоту'' в бой
+NEED 2 num. WEAPON
+Let's start a more organized attack and a slow attack on enemy positions
+Scatter one by one, which will avoid shelling or a single powerful attack
+Shows what stage you are at in terms of level of development. 95% of the time it will be a tribe, because read the name of the game.
+Displays how you are treated in the neighboring modern city: 
+from 0 to 250 - Hostile. They can attack, not go to the dialogue.
+from 250 to 750 - Neutral. They trade and can talk, but they don't owe you anything.
+from 750 to 1000 - Friendly. Your tribe is loved here and ready to help you.
+Displays how you are treated in a nearby medieval castle:
+Displays how you are treated in a neighboring tribe: 
+More detailed characteristics of the tribe's status and some bonuses are displayed below. Hover over them to find out the details.
+Hover over the received achievement and its description will be displayed here
+Dev. level: Tribe
+Dev. level: Middle age
+Dev. level: industrial
+Dev. level: Post-industrial
+All the opponents are dead, you have won!
+ slaves in exchange for 
+ foods in exchange for 
+ medicaments in exchange for 
+ prim. resources exchange for 
+ metals in exchange for  
+ weapons in exchange for 
+ jewelry in exchange for 
+ slaves
+ num. food
+ num. of medicament
+ num. of prim. resource
+ num. of metal
+ num. of weapon
+ num. of jewelry
+Rep. with the tribes: 
+Rep. with the castle: 
+Rep. with the city: 
+ out of 1000
+NOT RECEIVED!
+Our dev. level: Tribe
+Our dev. level: Middle age
+Our dev. level: industrial
+Our dev. level: Post-industrial
+Enemy dev. level: Tribe
+Enemy dev. level: Middle age
+Enemy dev. level: industrial
+Enemy dev. level: Post-industrial
+Time: Early morning
+Time: morning
+Time: the middle of the day
+Time: Evening
+Time: Night
+Time: Deep night
+Place of battle: Open field
+Place of battle: Forest
+Place of battle: Town/village
+Place of battle: Brige and river
+Place of battle: Hill
+Place of battle: Swamp
+Day 
+Food: 
+Jewelry: 
+Medicament: 
+Steel: 
+Morale: 
+People: 
+Weapons: 
+Prim. resources: 
+The game is saved. The saved text file will appear in the same folder as the exe file of the game. It is better not to touch it, so as not to break anything...
+Your strength: 
+Enemy forces: 
+The enemy launched a direct frontal attack in an open area
+The enemy does not attack and tries to build a defense
+The enemy disappeared from your field of vision and ''hide'' somewhere
+The enemy started firing at your positions from afar
+The enemy launched an organized attack in small groups
+The enemy is thoroughly entrenched and ready to repel your ground attack
+The enemy gathered forces and began to aggressively attack in small heaps
+The enemy has lined up in a large square, covered himself with shields and is slowly coming towards you
+OVERWHELMING advantage of the enemy (Initiative 
+The initiative of the enemy (Initiative 
+You have the initiative (Initiative 
+You have a STUNNING advantage (Initiative 
+The situation is stalemate (Initiative 
+You have a STUNNING advantage (Initiative 
+Stalemate (Initiative 
+Enemy killed 
+ your people
+You killed 
+ enemy
+Language: English
+Traditions of our tribe
+ACHIVMENT
+STATUS
+There should be text when hovering over something
+Food supplies 
+Good preparation
+Unknown disease
+Livestock
+Frozen conflict
+Stone wall
+War on the our borders
+Access to royal forests 
+You have thoroughly prepared and now you will not starve if something happens to food...
+Your troops are well trained and think something in tactics.
+Our people look pale and very emaciated. Infection walks through the village.
+We can afford to keep a few animals that can feed several people at all times.
+There is tension in the air all the time. The population is getting more dissatisfied every day.
+Our settlement has walls, it provides us with additional protection.
+Military detachments of other settlements walk through our territory and there are battles.
+The castle allows us to extract resources on their territory
++10 num. food if hungry.
+Initiative +1 in any battle while this effect lasts.
+Every day, 1 num. is spent. medicines, if no meds - 1 person dies. 10% chance that the disease will go away on its own every day.
++1 num. food every day.
+-2 num. morality every day
+-1 enemy damage in a battle on the ''Village'' terrain
++10% chance to attack us, 3% every day to effect gone.
++1 primitive resources every 2 days
+1 year
+Mansa Musa
+Primitive communism
+Pot, don't boil!
+Followers of Stirner
+Full Metal sharpening
+Your tribe has been able to survive for a year, an amazing resilience considering what happens every day.
+You got insanely more gems for these places, you can not save for the rest of your life!
+It seems that you managed to create the very idea of cohesion, however, you have a really tight time with food... Costs of the regime
+You have accumulated so much food that in the tribe the topic of fat-shaming comes up more often than anything else.
+You do not owe anything to anyone and do what you think is necessary and within your power. Relations with other factions are secondary.
+You, under not very equal technological conditions, survived as many as 5 attacks and defenses. Commendable.
